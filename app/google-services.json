@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683136461857",
+    "project_id": "tekh-uchet",
+    "storage_bucket": "tekh-uchet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683136461857:android:41db1e83abc01f0e268760",
+        "android_client_info": {
+          "package_name": "ru.tehuchet.teh_uchet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683136461857-f71j7g8sesrasolfgseh4s4d3njn7kb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAjFZMJneAx4vQOPOTr-zpBuevx_FJOhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683136461857-f71j7g8sesrasolfgseh4s4d3njn7kb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

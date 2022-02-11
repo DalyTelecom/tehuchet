@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".UserDataActivity">
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_margin="8dp"
+        tools:text="Иванов Петр Петрович"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/phone"
+        tools:text="5 29 67"
+        android:layout_margin="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/mobile"
+        tools:text="8 999 888 77 66"
+        android:layout_margin="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/address"
+        android:layout_margin="8dp"
+        tools:text="Малая Вишера, ул Ленина д 156, кв. 11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/kross"
+        android:layout_margin="8dp"
+        tools:text="Кросс: 384"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/magistral"
+        android:layout_margin="8dp"
+        tools:text="Магистраль: 384"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/raspredelenie"
+        android:layout_margin="8dp"
+        tools:text="Распределение: 495"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/adslPort"
+        android:layout_margin="8dp"
+        tools:text="Порт ADSL: 109"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/boxes"
+        android:layout_margin="8dp"
+        tools:text="Ящик: 109, 471"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/view"
+        android:layout_marginTop="24dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Посмотреть на карте" />
+
+    <Button
+        android:id="@+id/edit"
+        android:layout_marginTop="24dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Редактировать" />
+
+</LinearLayout>
