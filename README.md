@@ -1,2 +1,2 @@
-# tehuchet
-tehuchet morda
+# tehuchet-mobile
+tehuchet mobile morda
